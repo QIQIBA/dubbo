@@ -30,6 +30,6 @@ public interface ConfigService {
 
 	void update(List<Config> configs);
 
-	Map<String, String> findAllConfigsMap();
+	Map<String, String> findAllConfigsMap();//devLuo提交
 
 }
